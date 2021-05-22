@@ -16,9 +16,9 @@ title_separator          : "-"
 subtitle                 : "wandering guys in tech"
 name                     : &name "GSC Brothers" # &name is a YAML anchor which can be *referenced later
 description              : &description "We are working to create better VR, AR application"
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+url                      : https://gscnewsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/gscnewsite" # the subpath of your site, e.g. "/blog"
+repository               : "gscnewsite/gscnewsite"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
